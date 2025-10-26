@@ -12,10 +12,13 @@
 .card{
     background-color: hsl(0, 0%, 12%);
     color: white;
-    padding: 25px;
+    padding: 20px;
     border-radius: 15px;
-    width: 100%;
-    max-width: 375px;
+    width: 90%;
+    max-width: 400px;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    box-sizing: border-box;
     
 }
 .profile{
@@ -62,8 +65,10 @@ img{
     padding: 12px 30px;
     border-radius: 8px;
     text-align: center;
-    width: 250px;
+    width: 100%;
+    max-width: 100%;
     transition: all 0.3s ease;
+    box-sizing: border-box;
 }
 .linkBtn:hover{
     background: #555;
