@@ -2,7 +2,7 @@
 
 A responsive social media link-sharing profile card that allows users to showcase all their social media platforms in one clean, accessible location. Built as part of a Frontend Mentor challenge.
 
-
+![Image](https://github.com/user-attachments/assets/c025c5c2-050e-429a-a2a2-cf80ba3d8531)
 
 ## Overview
 
